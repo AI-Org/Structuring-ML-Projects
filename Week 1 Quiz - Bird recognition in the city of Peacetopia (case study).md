@@ -3,7 +3,7 @@
 1. Problem Statement
     This example is adapted from a real production application, but with details disguised to protect confidentiality.
 
-    ![peacetopia](https://raw.githubusercontent.com/Swatisoni/structuring\ ml\ projects/master/images/peacetopia.jpg)
+    ![peacetopia](https://github.com/AI-Org/Structuring-ML-Projects/blob/master/images/peacetopia.jpg)
 
     You are a famous researcher in the City of Peacetopia. The people of Peacetopia have a common characteristic: they are afraid of birds. To save them, you have to build an algorithm that will detect any bird flying over Peacetopia and alert the population.
 

@@ -12,6 +12,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 Course 3: Structuring Machine Learning Projects
 
 Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)
+
 Week 2 Quiz - Autonomous driving (case study)
 
 
